@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-8(pz-y=%(jff@1bviyee7ttjuhy-d=g+x-963c3)7y2e+c5rw*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://musicalvibe.onrender.com']
 
 
 # Application definition
